@@ -1,0 +1,16 @@
+[27-Nov-2015 22:57:15 Asia/Calcutta] PHP Fatal error:  Call to undefined function base_url() in /home/webprog1/public_html/mobile/application/views/welcome_message.php on line 71
+[27-Nov-2015 22:58:35 Asia/Calcutta] PHP Fatal error:  Call to undefined function base_url() in /home/webprog1/public_html/mobile/application/views/welcome_message.php on line 71
+[27-Nov-2015 22:59:07 Asia/Calcutta] PHP Fatal error:  Call to undefined function base_url() in /home/webprog1/public_html/mobile/application/views/welcome_message.php on line 71
+[22-Dec-2015 12:30:49 America/New_York] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/webprog1/public_html/apps/first-photo-album.php on line 191
+[22-Dec-2015 12:31:47 America/New_York] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/webprog1/public_html/apps/first-photo-album.php on line 191
+[22-Dec-2015 12:32:40 America/New_York] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/webprog1/public_html/apps/first-photo-album.php on line 191
+[22-Dec-2015 12:33:13 America/New_York] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/webprog1/public_html/apps/first-photo-album.php on line 191
+[23-Dec-2015 12:44:32 America/New_York] PHP Fatal error:  Call to a member function getLongLivedSession() on a non-object in /home/webprog1/public_html/apps/first-photo-album.php on line 12
+[23-Dec-2015 12:56:27 America/New_York] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/webprog1/public_html/apps/first-photo-album.php on line 53
+[23-Dec-2015 13:02:46 America/New_York] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/webprog1/public_html/apps/first-photo-album.php on line 17
+[23-Dec-2015 13:12:37 America/New_York] PHP Fatal error:  Call to undefined function base_url() in /home/webprog1/public_html/apps/first-photo-album.php on line 70
+[23-Dec-2015 13:13:24 America/New_York] PHP Fatal error:  Call to undefined function base_url() in /home/webprog1/public_html/apps/first-photo-album.php on line 70
+[23-Dec-2015 13:13:34 America/New_York] PHP Fatal error:  Call to undefined function base_url() in /home/webprog1/public_html/apps/first-photo-album.php on line 70
+[23-Dec-2015 13:14:28 America/New_York] PHP Fatal error:  Call to undefined function base_url() in /home/webprog1/public_html/apps/first-photo-album.php on line 70
+[23-Dec-2015 13:16:51 America/New_York] PHP Fatal error:  Call to undefined function base_url() in /home/webprog1/public_html/apps/first-photo-album.php on line 72
+[23-Dec-2015 23:33:01 America/New_York] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/webprog1/public_html/apps/first-photo-album.php on line 94
